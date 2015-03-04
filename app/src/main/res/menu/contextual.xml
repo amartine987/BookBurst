@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mnuVeureDades" android:title="@string/veure"
+        android:orderInCategory="100" app:showAsAction="ifRoom" android:icon="@android:drawable/ic_menu_help"/>
+    <item android:id="@+id/mnuEsborrar" android:title="@string/esborrar"
+        android:orderInCategory="100" app:showAsAction="ifRoom" android:icon="@android:drawable/ic_menu_help"/>
+    <item android:id="@+id/mnuEditar" android:title="@string/editar"
+        android:orderInCategory="100" app:showAsAction="ifRoom" android:icon="@android:drawable/ic_menu_help"/>
+</menu>

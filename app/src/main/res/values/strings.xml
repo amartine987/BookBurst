@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Books Burts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nou_llibre">NouLlibreActivity</string>
+    <string name="title_activity_info_llibres">Informació dels Llibres</string>
+    <string name="info">App info</string>
+    <string name="cercar">Cercar Llibre</string>
+    <string name="add">Afegir</string>
+    <string name="sortir">Sortir</string>
+    <string name="veure">Veure</string>
+    <string name="esborrar">Esborrar</string>
+    <string name="refresh">Refresh</string>
+    <string name="editar">Editar</string>
+
+</resources>
